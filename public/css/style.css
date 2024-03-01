@@ -33,9 +33,7 @@ html, body
   display: inline-block;
   padding: 15px 15px;
   border-radius: 10px;
-  font-size: 25px;
-  background-color: #929292;
-  color: #262627;
+  font-size: 35px;
   font-weight: 600;
   transition: all 0.3s ease 0s;
 }
@@ -250,7 +248,7 @@ a:focus {
 }
 .about_section2 {
   text-align: center;
-  background-color: #6ebca8;
+  background-color: #279c3b;
 }
 .about_section a {
   background-color: #6ebca8;
@@ -570,7 +568,7 @@ a:focus {
   margin: 5px;
 }
 .secction_preguntasFrecuentes {
-  background-color: #6ebca8;
+  background-color: #279c3b;
 }
 .section_testimonios {
   background-color: #6ebca8;
@@ -584,4 +582,7 @@ a:focus {
 .img_principal{
   filter: drop-shadow(0px 0px 10px rgba(87, 87, 87, 0.75)) !important;
 
+}
+.bg_barra{
+  background-color: #2d1d09;
 }
