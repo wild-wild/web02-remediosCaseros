@@ -250,7 +250,7 @@ a:focus {
 }
 .about_section2 {
   text-align: center;
-  background-color: #279c3b;
+  background-color: #ffffff;
 }
 .about_section a {
   background-color: #6ebca8;
@@ -570,7 +570,7 @@ a:focus {
   margin: 5px;
 }
 .secction_preguntasFrecuentes {
-  background-color: #279c3b;
+  background-color: #ffffff;
 }
 .section_testimonios {
   background-color: #6ebca8;
@@ -587,4 +587,12 @@ a:focus {
 }
 .bg_barra{
   background-color: #2d1d09;
+}
+.btn_compra{
+  background-color: chartreuse;
+  color: black;
+  margin: 50px;
+  padding: 25px;
+  border-radius: 10px;
+  
 }
