@@ -36,6 +36,8 @@ html, body
   font-size: 35px;
   font-weight: 600;
   transition: all 0.3s ease 0s;
+
+
 }
 
 .hero_section .call_to-btn {}
